@@ -4,7 +4,6 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "preinstall": "npm config set production false && npm config set omit dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
