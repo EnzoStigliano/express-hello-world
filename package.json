@@ -5,7 +5,6 @@
   "scripts": {
     "start": "node index.js",
     "preinstall": "npm config set production false && npm config set omit dev",
-    "postinstall": "npm prune --omit=dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
